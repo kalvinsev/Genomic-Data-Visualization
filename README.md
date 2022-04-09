@@ -1,0 +1,1 @@
+main.cpp file used to generate different images. You will notice that the ppm files contain list of numbers ranging from 0-255 (different rgb black and white shades). Once downloaded to a machine then will the image come to life.
