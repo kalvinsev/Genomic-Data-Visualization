@@ -1,1 +1,1 @@
-main.cpp file used to generate different images. You will notice that the ppm files contain list of numbers ranging from 0-255 (different rgb black and white shades). Once downloaded to a machine then will the image come to life.
+main.cpp file used to generate different heatmaps used to represent the spread of genes in various SARS diseases. You will notice that the ppm files contain list of numbers ranging from 0-255 (different rgb black and white shades). Once downloaded to your computer, the heat map is easily viewable. 
